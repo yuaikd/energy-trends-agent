@@ -1,7 +1,6 @@
 # Agent AI - Analiza trendów branżowych
 Automatyczne narzędzie do scrapowania i inteligentnej analizy trendów w sektorze energetycznym. Projekt stworzony z myślą o wsparciu analitycznym w branży paliwowo-energetycznej (Case Study: Orlen).
 ## Wygenerowany raport przez agenta 23.04.2026
-```markdown
 <details>
   <summary>Kliknij, aby zobaczyć raport </summary>
 
@@ -46,6 +45,7 @@ Analiza artykułów:
     Słowa kluczowe: systemy wsparcia, OZE, dekarbonizacja
     Streszczenie: Renata Mroczek z URE podkreśliła potrzebę analizy systemów wsparcia dla OZE, aby ocenić, które technologie powinny być wspierane. Wskazała na konieczność stabilności regulacyjnej oraz wsparcia publicznego dla projektów dekarbonizacyjnych, które są kluczowe dla osiągnięcia celów klimatycznych.
 ------------------------------
+'''
 </details>
 ## O projekcie
 Agent automatycznie pobiera najnowsze wiadomości z portalu (wnp.pl), a następnie wykorzystuje model **GPT-4o-mini** do:
