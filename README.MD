@@ -46,7 +46,7 @@ Analiza artykułów:
     Streszczenie: Renata Mroczek z URE podkreśliła potrzebę analizy systemów wsparcia dla OZE, aby ocenić, które technologie powinny być wspierane. Wskazała na konieczność stabilności regulacyjnej oraz wsparcia publicznego dla projektów dekarbonizacyjnych, które są kluczowe dla osiągnięcia celów klimatycznych.
 ------------------------------
 
-'''
+```
 
 </details>
 
